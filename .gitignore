@@ -1,0 +1,4 @@
+# Ignorar ambiente virtual e cache
+venv/
+__pycache__/
+.ipynb_checkpoints/
